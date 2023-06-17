@@ -1,4 +1,4 @@
-//For more information visit: https://leetcode.com/problems/greatest-common-divisor-of-strings/editorial/
+package Array_String;//For more information visit: https://leetcode.com/problems/greatest-common-divisor-of-strings/editorial/
 
 public class GreatestCommonDivisorOfStrings {
 

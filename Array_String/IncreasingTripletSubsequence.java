@@ -1,3 +1,5 @@
+package Array_String;
+
 public class IncreasingTripletSubsequence {
 
     public static boolean increasingTriplet(int[] nums) {

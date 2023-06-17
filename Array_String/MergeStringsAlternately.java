@@ -1,3 +1,5 @@
+package Array_String;
+
 public class MergeStringsAlternately {
 
     //T.C: O(min(word1.length, word2.length) Ana Worst case T.C: O(max(word1.length, word2.length))
